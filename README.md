@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![github stats](https://github-readme-stats.vercel.app/api?username=leandrosolagna&show_icons=true&&line_height=40)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosolagna&show_icons=true)
+
 <!--
 **leandrosolagna/leandrosolagna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
